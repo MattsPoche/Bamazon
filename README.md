@@ -3,7 +3,7 @@
 * This is a simple project to practice connecting to and quering a mySQL database in a node.js environment. 
 
 ## Example Output
----------------------
+
 This screenshot shows the Products table
 ![Image of Products table](https://github.com/MattsPoche/Bamazon/blob/master/screenshots/ProductsTable.PNG)
 
