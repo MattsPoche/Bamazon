@@ -1,6 +1,7 @@
 # BAMAZON
 
 * This is a simple project to practice connecting to and quering a mySQL database in a node.js environment. 
+* I provided a Schema.sql file to build the database I used for this project
 
 ## Example Output
 
