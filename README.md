@@ -1,4 +1,4 @@
-#BAMAZON
+# BAMAZON
 
 * This is a simple project to practice connecting to and quering a mySQL database in a node.js environment. 
 
